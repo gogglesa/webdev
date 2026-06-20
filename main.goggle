@@ -10,12 +10,21 @@
 $discard,site=w3schools.com
 $discard,site=cssdeck.com
 $discard,site=medium.com
+$discard,site=roblox.com
+$discard,site=reddit.com
+$discard,site=github.com
+$discard,site=thunkable.com
+$discard,site=superuser.com
+$discard,site=dottoro.com
+$discard,site=yellow.ai
+$discard,site=dev.to
+
 
 ! Uninteresting
 $downrank=3,site=stackoverflow.com
 
 ! Quality
-$boost=3,site=mozilla.org
-$boost=3,site=css-tricks.com
+$boost=10,site=mozilla.org
+$boost=9,site=css-tricks.com
 
 
