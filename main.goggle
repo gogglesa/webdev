@@ -1,0 +1,20 @@
+! name: WebDevSA
+! description: Prioritizes high-quality Web Dev content
+! public: true
+! author: Behrang Saeedzadeh
+! avatar: #01b47b
+! homepage: https://github.com/gogglesa/webdev
+! generated: 2026-06-20 09:37:0+00:00
+
+! Garbage
+$discard,site=w3schools.com
+$discard,site=cssdeck.com
+
+! Uninteresting
+$downrank=3,site=stackoverflow.com
+
+! Quality
+$boost=3,site=developer.mozilla.org
+$boost=3,site=css-tricks.com
+
+
