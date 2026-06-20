@@ -9,12 +9,13 @@
 ! Garbage
 $discard,site=w3schools.com
 $discard,site=cssdeck.com
+$discard,site=medium.com
 
 ! Uninteresting
 $downrank=3,site=stackoverflow.com
 
 ! Quality
-$boost=3,site=developer.mozilla.org
+$boost=3,site=mozilla.org
 $boost=3,site=css-tricks.com
 
 
